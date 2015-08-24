@@ -57,6 +57,5 @@
         {
             return $this->cover_art;
         }
-
     }
 ?>
